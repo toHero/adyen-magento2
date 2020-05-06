@@ -1,5 +1,5 @@
 {
-  "name": "adyen/module-payment",
+  "name": "tohero/adyen-module-payment",
   "description": "Official Magento2 Plugin to connect to Payment Service Provider Adyen.",
   "type": "magento2-module",
   "version": "6.1.0",
@@ -15,7 +15,7 @@
   ],
   "require": {
     "adyen/php-api-library": "~6",
-    "magento/framework": ">=101.0.8 <102 || >=102.0.1",
+    "magento/framework": ">=101.0.8",
     "magento/module-vault": "101.*",
     "magento/module-paypal": ">=100.2.6"
   },
